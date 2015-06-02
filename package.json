@@ -1,0 +1,7 @@
+{
+  "name": "jssh-snippet-redis",
+  "version": "0.0.1",
+  "description": "Install Redis server on Ubuntu using Node.js.",
+  "main": "index.js",
+  "dependencies": {}
+}
