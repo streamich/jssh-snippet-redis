@@ -1,7 +1,19 @@
 {
   "name": "jssh-snippet-redis",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Install Redis server on Ubuntu using Node.js.",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/jssh-snippet-redis.git"
+  },
+  "keywords": [
+    "redis",
+    "install",
+    "ubuntu",
+    "jssh",
+    "shell",
+    "snippet"
+  ],
   "dependencies": {}
 }
